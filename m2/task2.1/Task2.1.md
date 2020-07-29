@@ -16,3 +16,4 @@ Virtualization of operating systems such as VMVare,Microsoft,Oracle and virtuali
 -storage virtualization
 One of the competitor of virtualization is container virtualization, whitch is run at the sam level as phisical servers,that can work with better performance,than virtualization because of:
 -can run max applications on minimum number of servers and int used hardware withoiut virtual drivers to devices, so it take to us better performance.
+ 
