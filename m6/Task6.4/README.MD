@@ -1,13 +1,25 @@
 Hello!I have been broking my hometask in peaces and made links to each other there:
 
-First part of task 6.1.1 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.1.png
+First part of task 6.4.1 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.1.png
 
-Second part of task 6.1.2 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.2(route).png
+Script file : https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.1
 
-Third part of task 6.1.3 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.2.png
+Second part of task 6.4.2 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.2.png
 
-Fourth part of task 6.1.5-6 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.5-6.png
+Script file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.2
 
-Fifth part of task 6.1.7 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.7.png
+Third part of task 6.4.3 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.3.png
 
-Sixth part of task 6.1.8 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.1/task6.1.8.png
+Script file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.3
+
+Fourth part of task 6.4.4 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.4.png
+
+Script file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.4
+
+Fifth part of task 6.4.5 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.5
+
+Script file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.5
+
+Sixth part of task 6.4.6 screenshot file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.6.png
+
+Script file: https://github.com/EpamDevops/DevOps_online_Dnipro_2020Q3Q4/blob/master/m6/Task6.4/Task6.4.6
